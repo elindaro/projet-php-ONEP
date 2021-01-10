@@ -1,0 +1,22 @@
+h3{ text-align: center;
+text-decoration: underline; }
+p{ padding-left:40px;  }
+body{ margin-right: 40px; 
+}
+
+.form-login {
+    background-color: #EDEDED;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    border-color:#d2d2d2;
+    border: 90px;
+    box-shadow:0 1px 0 #cfcfcf;
+    margin-top: 5%;
+    margin-left: -25px;
+
+   }
+
+
